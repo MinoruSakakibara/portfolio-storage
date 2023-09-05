@@ -1,0 +1,35 @@
+.content-area {
+  width:50%;
+  margin:0 auto;
+  margin-top: 15px;
+  margin-bottom:15px;
+}
+
+.title {
+  text-align: center;
+}
+
+.content {
+  width: 80%;
+}
+
+.content-title {
+  border-bottom: 1px solid;
+}
+
+.content-title h2 {
+  margin: 3px 0;
+}
+
+.card-area {
+  display: flex;
+}
+
+.card {
+  display: flex;
+  width: 30%;
+  margin: 10px 10px 10px 10px;
+}
+
+@media screen and (max-width: 428px) {
+}
