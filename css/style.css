@@ -29,6 +29,15 @@
   display: flex;
   width: 30%;
   margin: 10px 10px 10px 10px;
+  padding: 10px 10px 10px 10px;
+  border: 1px solid;
+  border-radius: 10px 10px 10px 10px;
+}
+
+.image img {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid;
 }
 
 @media screen and (max-width: 428px) {
